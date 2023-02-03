@@ -28,5 +28,10 @@
       "name": "Task",
       "description": "Everything that needs to be done and doesn't fit one of the other",
       "color": "fbca04"
+    },
+    {
+      "name": "TEST",
+      "description": "Everything that needs to be done and doesn't fit one of the other",
+      "color": "fbca04"
     }
   ]
