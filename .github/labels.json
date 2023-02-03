@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Bug",
+      "description": "Something isn't working",
+      "color": "d73a4a"
+    },
+    {
+      "name": "Chore",
+      "description": "Housekeeping stuff",
+      "color": "BFD4F2"
+    },
+    {
+      "name": "Documentation",
+      "description": "Improvements or additions to documentation",
+      "color": "0075ca"
+    },
+    {
+      "name": "Epic",
+      "description": "Master for bigger features",
+      "color": "18081F"
+    },
+    {
+      "name": "Feature",
+      "description": "New feature or request",
+      "color": "008672"
+    },
+    {
+      "name": "Task",
+      "description": "Everything that needs to be done and doesn't fit one of the other",
+      "color": "fbca04"
+    }
+  ]

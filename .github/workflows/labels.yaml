@@ -1,0 +1,14 @@
+name: "Update GitHub labels"
+
+on:
+    push:
+        paths:
+            - '.github/labels.json'
+
+jobs:
+    update-labels:
+        runs-on: "ubuntu-latest"
+        name: "Sync issue labels"
+        steps:
+            -   uses: 'actions/checkout@v3'
+            -   uses: 'jop-software/github-labels-as-code-action@1.0.0'
